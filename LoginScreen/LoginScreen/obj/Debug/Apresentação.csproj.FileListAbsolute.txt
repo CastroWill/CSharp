@@ -1,0 +1,9 @@
+C:\Users\Willa\Downloads\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form1.resources
+C:\Users\Willa\Downloads\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Properties.Resources.resources
+C:\Users\Willa\Downloads\LoginScreen\LoginScreen\obj\Debug\Apresentação.csproj.GenerateResource.cache
+C:\Users\Willa\Downloads\LoginScreen\LoginScreen\obj\Debug\Apresentação.csproj.CoreCompileInputs.cache
+C:\Users\Willa\Downloads\LoginScreen\LoginScreen\obj\Debug\LoginScreen.exe
+C:\Users\Willa\Downloads\LoginScreen\LoginScreen\obj\Debug\LoginScreen.pdb
+C:\Users\Willa\Downloads\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe.config
+C:\Users\Willa\Downloads\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe
+C:\Users\Willa\Downloads\LoginScreen\LoginScreen\bin\Debug\LoginScreen.pdb
